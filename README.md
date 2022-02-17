@@ -1,2 +1,3 @@
 #Sass Project
-In this Project sass will sass
+
+#With HTML and CSS ,SASS will be used to make a landing page.
